@@ -1,6 +1,6 @@
 
 
-# Project : Stock App
+# Project : Shopping Task 
 
 ## Table of contents
 
