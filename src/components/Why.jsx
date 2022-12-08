@@ -12,9 +12,11 @@ const Why = () => {
         </p>
       </div>
       <div>
-        <div className="flex flex-wrap justify-center gap-5">
-          <div className="block p-6 rounded-lg shadow-lg bg-white max-w-sm">
-            <BiLike />
+        <div className="flex flex-wrap justify-center items-center text-center gap-3">
+          <div className="block p-6 rounded-lg shadow-lg bg-white max-w-sm mx-auto ">
+            <div className="text-center flex justify-center items-center">
+              <BiLike size={50} />
+            </div>
             <h5 className="text-gray-900 text-xl leading-tight font-medium mb-2">
               Lorem title
             </h5>
@@ -24,8 +26,10 @@ const Why = () => {
               dolorum!
             </p>
           </div>
-          <div className="block p-6 rounded-lg shadow-lg bg-white max-w-sm">
-            <BiLike />
+          <div className="block p-6 rounded-lg shadow-lg bg-white max-w-sm mx-auto ">
+            <div className="text-center flex justify-center items-center">
+              <BiLike size={50} />
+            </div>
             <h5 className="text-gray-900 text-xl leading-tight font-medium mb-2">
               Lorem title
             </h5>
@@ -35,8 +39,10 @@ const Why = () => {
               dolorum!
             </p>
           </div>
-          <div className="block p-6 rounded-lg shadow-lg bg-white max-w-sm">
-            <BiLike />
+          <div className="block p-6 rounded-lg shadow-lg bg-white max-w-sm mx-auto ">
+            <div className="text-center flex justify-center items-center">
+              <BiLike size={50} />
+            </div>
             <h5 className="text-gray-900 text-xl leading-tight font-medium mb-2">
               Lorem title
             </h5>
@@ -46,8 +52,10 @@ const Why = () => {
               dolorum!
             </p>
           </div>
-          <div className="block p-6 rounded-lg shadow-lg bg-white max-w-sm">
-            <BiLike />
+          <div className="block p-6 rounded-lg shadow-lg bg-white max-w-sm mx-auto ">
+            <div className="text-center flex justify-center items-center">
+              <BiLike size={50} />
+            </div>
             <h5 className="text-gray-900 text-xl leading-tight font-medium mb-2">
               Lorem title
             </h5>

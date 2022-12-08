@@ -55,7 +55,7 @@ const Navbar = () => {
 
   return (
     <div className="bg-[#e5e5e5e5] p-5">
-      <div className="max-w-sm sm:max-w-screen-lg mx-auto flex justify-between items-center">
+      <div className="max-w-sm sm:max-w-screen-lg mx-auto flex justify-between items-center ">
         <img
           src="https://www.ray-ban.com/rbstatichtml/assets/images/red-logo.svg"
           alt="logo"
