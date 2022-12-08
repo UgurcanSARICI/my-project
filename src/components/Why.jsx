@@ -2,9 +2,9 @@ import { BiLike } from "react-icons/bi";
 const Why = () => {
   return (
     <div>
-      <div className="container text-center my-[3rem]">
+      <div className=" w-100 text-center p-[5rem] ">
         <p className="text-4xl text-center">Neden Biz?</p>
-        <p className="text-xl text-center">
+        <p className="text-xl ">
           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatem
           quas distinctio autem, facilis recusandae quidem vel eum reprehenderit
           esse perspiciatis quia odio asperiores ducimus consequatur officiis
