@@ -6,7 +6,6 @@ import Faq from "../components/Faq";
 import Home from "../components/Home";
 import Navbar from "../components/Navbar";
 import Products from "../components/Products";
-import Slider from "../components/Slider";
 
 const AppRouter = () => {
   return (

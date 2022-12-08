@@ -34,7 +34,7 @@ const Contact = () => {
                     <div className="mb-12 grow-0 shrink-0 basis-auto w-full md:w-6/12 lg:w-full xl:w-6/12 px-3 md:px-6 xl:px-12">
                       <div className="flex items-start">
                         <div className="shrink-0">
-                          <div className="p-4 bg-blue-600 rounded-md shadow-md w-14 h-14 flex items-center justify-center">
+                          <div className="p-4 bg-red-600 rounded-md shadow-md w-14 h-14 flex items-center justify-center">
                             <svg
                               aria-hidden="true"
                               focusable="false"
@@ -62,7 +62,7 @@ const Contact = () => {
                     <div className="mb-12 grow-0 shrink-0 basis-auto w-full md:w-6/12 lg:w-full xl:w-6/12 px-3 md:px-6 xl:px-12">
                       <div className="flex items-start">
                         <div className="shrink-0">
-                          <div className="p-4 bg-blue-600 rounded-md shadow-md w-14 h-14 flex items-center justify-center">
+                          <div className="p-4 bg-red-600 rounded-md shadow-md w-14 h-14 flex items-center justify-center">
                             <svg
                               aria-hidden="true"
                               focusable="false"
@@ -90,7 +90,7 @@ const Contact = () => {
                     <div className="mb-12 grow-0 shrink-0 basis-auto w-full md:w-6/12 lg:w-full xl:w-6/12 px-3 md:px-6 xl:px-12">
                       <div className="flex align-start">
                         <div className="shrink-0">
-                          <div className="p-4 bg-blue-600 rounded-md shadow-md w-14 h-14 flex items-center justify-center">
+                          <div className="p-4 bg-red-600 rounded-md shadow-md w-14 h-14 flex items-center justify-center">
                             <svg
                               aria-hidden="true"
                               focusable="false"
@@ -118,7 +118,7 @@ const Contact = () => {
                     <div className="mb-12 lg:mb-0 grow-0 shrink-0 basis-auto w-full md:w-6/12 lg:w-full xl:w-6/12 px-3 md:px-6 xl:px-12">
                       <div className="flex align-start">
                         <div className="shrink-0">
-                          <div className="p-4 bg-blue-600 rounded-md shadow-md w-14 h-14 flex items-center justify-center">
+                          <div className="p-4 bg-red-600 rounded-md shadow-md w-14 h-14 flex items-center justify-center">
                             <svg
                               aria-hidden="true"
                               focusable="false"

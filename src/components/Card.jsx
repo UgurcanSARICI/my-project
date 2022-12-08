@@ -20,7 +20,7 @@ const Card = ({ item }) => {
         </div>
         <button
           onClick={() => navigate(`/product/${item.title}`, { state: item })}
-          className="w-full bg-blue-500 py-3 mt-5 rounded hover:bg-blue-400 duration-300"
+          className="w-full bg-red-500 py-3 mt-5 rounded hover:bg-red-600 duration-300"
         >
           See Details
         </button>

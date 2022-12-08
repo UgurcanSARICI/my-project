@@ -26,7 +26,9 @@ const HamburgerMenu = () => {
       <li onClick={() => navigate("/products")} className="text-lg">
         Ürünler
       </li>
-      <li className="text-lg">S.S.S</li>
+      <li onClick={() => navigate("/faq")} className="text-lg">
+        S.S.S
+      </li>
       <li onClick={() => navigate("/contact")} className="text-lg">
         İletişim
       </li>
@@ -66,7 +68,9 @@ const Navbar = () => {
           <li onClick={() => navigate("/products")} className="text-lg">
             Ürünler
           </li>
-          <li className="text-lg">S.S.S</li>
+          <li onClick={() => navigate("/faq")} className="text-lg">
+            S.S.S
+          </li>
           <li onClick={() => navigate("/contact")} className="text-lg">
             İletişim
           </li>
