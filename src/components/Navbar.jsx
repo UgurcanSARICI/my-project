@@ -22,7 +22,9 @@ const HamburgerMenu = () => {
       <li onClick={() => navigate("/about")} className="text-lg">
         Hakkımızda
       </li>
-      <li className="text-lg">Neden Biz</li>
+      <li onClick={() => navigate("/why")} className="text-lg">
+        Neden Biz?
+      </li>
       <li onClick={() => navigate("/products")} className="text-lg">
         Ürünler
       </li>
@@ -64,7 +66,9 @@ const Navbar = () => {
           <li onClick={() => navigate("/about")} className="text-lg">
             Hakkımızda
           </li>
-          <li className="text-lg">Neden Biz</li>
+          <li onClick={() => navigate("/why")} className="text-lg">
+            Neden Biz?
+          </li>
           <li onClick={() => navigate("/products")} className="text-lg">
             Ürünler
           </li>

@@ -6,6 +6,7 @@ import Faq from "../components/Faq";
 import Home from "../components/Home";
 import Navbar from "../components/Navbar";
 import Products from "../components/Products";
+import Why from "../components/Why";
 
 const AppRouter = () => {
   return (
@@ -17,6 +18,7 @@ const AppRouter = () => {
         <Route path="/products" element={<Products />} />
         <Route path="/product/:id" element={<CardDetail />} />
         <Route path="/about" element={<About />} />
+        <Route path="/why" element={<Why />} />
         <Route path="/contact" element={<Contact />} />
         <Route path="/faq" element={<Faq />} />
       </Routes>
