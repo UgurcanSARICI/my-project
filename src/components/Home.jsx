@@ -6,9 +6,9 @@ const Home = () => {
         <div className="main-slide swiper-container">
           <ul className="swiper-wrapper">
             <li className="swiper-slide">
-              <div className="slide-box relative">
+              <div className="flex flex-col-reverse slide-box relative">
                 <img src={slide1} alt="picture" />
-                <div className="slide-box-on absolute flex items-center">
+                <div className="slide-box-on sm:absolute flex items-center">
                   <div className="container mx-auto">
                     <div className="slide-box-on-content relative z-10">
                       <span className="block">
